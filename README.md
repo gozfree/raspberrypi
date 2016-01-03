@@ -23,14 +23,7 @@
                  GND  -39| |40-  GPIO21  
 
 ## car
-<<<<<<< HEAD
      MOTO_PIN_1 = 11 (GPIO17)  
      MOTO_PIN_2 = 13 (GPIO27)  
      MOTO_PIN_3 = 15 (GPIO22)  
      MOTO_PIN_4 = 16 (GPIO23)  
-=======
-  MOTO_PIN_1 = 11 (GPIO17)
-  MOTO_PIN_2 = 13 (GPIO27)
-  MOTO_PIN_3 = 15 (GPIO22)
-  MOTO_PIN_4 = 16 (GPIO23)
->>>>>>> d3c8a1c4e83b5f0a30a3ecc09180f04783f3f436
